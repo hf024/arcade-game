@@ -1,7 +1,7 @@
 
 前端纳米学位街机游戏克隆项目
 ===============================
-[游戏运行](https://hf024.github.io/arcade-game/) , 或在浏览器打开index.html
+点击进入[游戏](https://hf024.github.io/arcade-game/) , 或在浏览器打开index.html
 
 游戏指南：
 通过键盘的左右上下四个键，移动玩家，尽量避免与虫相撞。
