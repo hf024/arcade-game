@@ -2,7 +2,8 @@
 前端纳米学位街机游戏克隆项目
 ===============================
 游戏运行方式：
-方式1. [点击运行](https://hf024.github.io/arcade-game/)
+方式1. [点击运行](https://hf024.github.io/arcade-game/) 
+
 方式2. 在浏览器打开index.html
 
 游戏指南：
