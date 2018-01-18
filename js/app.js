@@ -16,7 +16,7 @@ Enemy.prototype.update = function(dt) {
 	// 都是以同样的速度运行的
 	this.x += dt * this.speed
 	if (this.x > 505) {
-		this.x = 0
+		this.x = -cellWidth
 	}
 };
 
